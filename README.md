@@ -1,5 +1,5 @@
 # Demo
 
-Demostration project, using for practice.
+Demonstration project, using for practice.
 
 Update!
